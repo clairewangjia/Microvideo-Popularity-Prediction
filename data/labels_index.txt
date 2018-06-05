@@ -1,0 +1,4 @@
+class name: class index
+‘negative’:0
+’neutral’:1
+‘positive’:2
